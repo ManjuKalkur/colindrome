@@ -5,4 +5,5 @@ if string is "abccba"
 
 first three character and next three character should be palindrome
 
-a colindrome  should be  of length 6 12 18  
+a colindrome  should be  of length 6 12 18 
+first comare first 6 character for palindrome then check next 6 character so on
