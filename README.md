@@ -1,7 +1,7 @@
 # colindrome 
 if string is "abccba"
 
- whole string should be plaindrome
+ whole string should be palindrome
 
 first three character and next three character should be palindrome
 
